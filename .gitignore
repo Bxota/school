@@ -1,0 +1,15 @@
+# Fichiers générés par le compilateur
+*.o
+*.out
+*.exe
+
+# Fichiers système
+.DS_Store
+
+# Fichiers de cache et logs
+*.log
+*.cache
+
+# Fichiers d'environnement virtuel
+venv/
+env/ 
